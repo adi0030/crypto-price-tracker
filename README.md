@@ -49,7 +49,7 @@ For the backend (if applicable):
 Open the app in your browser at http://localhost:3000 (or your specified port).
 
 Demo:
-Here is a link to the demo video showcasing the functionality of the app, or you can check out this embedded GIF below:
+https://drive.google.com/drive/folders/1cHh9Mn_jFkVgjDsCOoC4WO3ZpaKvZ519?usp=sharing
 
 
 
